@@ -1,2 +1,2 @@
-# Multi-Lingual-Hate-Specch-
+# Multi-Lingual-Hate-Speech
 Term Project NLP
